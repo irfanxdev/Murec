@@ -81,11 +81,11 @@ export default function Legacy() {
             <MagneticButton href="#collection">Our History</MagneticButton>
           </div>
 
-          <ImageReveal
+          {/* <ImageReveal
             src="https://murec.com/images/vision.jpg"
             alt="Architectural detail representing MUREC's vision for urban living"
             style={{ marginTop: "3.5rem", aspectRatio: "16 / 9" }}
-          />
+          /> */}
         </div>
       </div>
     </section>
