@@ -1,0 +1,27 @@
+:root {
+  /* Color palette — architectural, restrained. Gold is an accent, never a fill. */
+  --color-ink: #11110f;
+  --color-charcoal: #1a1a17;
+  --color-cream: #f4f1ea;
+  --color-sand: #d8d0c2;
+  --color-stone: #8d897f;
+  --color-gold: #9d8257;
+  --color-white: #ffffff;
+
+  /* Typography */
+  --font-display: "Cormorant Garamond", serif;
+  --font-body: "Manrope", sans-serif;
+
+  --size-display: clamp(3.25rem, 8.5vw, 8.75rem);
+  --size-section: clamp(2.5rem, 6vw, 5.75rem);
+  --size-body: 1.05rem;
+
+  /* Motion */
+  --ease-premium: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-base: 0.8s;
+
+  /* Layout */
+  --gutter: clamp(1.5rem, 5vw, 4rem);
+  --nav-height: 92px;
+  --max-width: 1600px;
+}
