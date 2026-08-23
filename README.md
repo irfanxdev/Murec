@@ -78,7 +78,7 @@ npm run preview
 
 ## Deployment
 
-Live URL: _add your Vercel URL here after deploying_
+Live URL:[https://murec-phi.vercel.app/](https://murec-phi.vercel.app/)
 
 ## Notes
 
