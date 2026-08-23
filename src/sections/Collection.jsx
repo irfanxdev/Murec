@@ -15,7 +15,7 @@ export default function Collection() {
         <SectionLabel chapter="Ch. 04" label="The Collection" />
         <RevealText
           as="h2"
-          text="THE FIRST\nADDRESS IN\nTHE COLLECTION"
+          text={"THE FIRST\nADDRESS IN\nTHE COLLECTION"}
           splitBy="lines"
           className="section-heading"
           style={{ maxWidth: "20ch", marginTop: "1rem" }}
